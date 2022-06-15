@@ -22,9 +22,6 @@ public class EightBall extends JFrame implements KeyListener{
         this.setSize(400, 400);
         this.setLayout(null);
         this.setVisible(true);
-        
-        JButton changeMode = new JButton("Calculator");
-        changeMode.setBounds(0,310,100,50);
 
         int width = 300;
         int height = 150;
